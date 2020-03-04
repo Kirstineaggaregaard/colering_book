@@ -1,0 +1,68 @@
+main {
+  width: 300px;
+  margin: 5rem 1rem 0;
+}
+
+.colors {
+  display: flex;
+}
+
+.color {
+  flex-wrap: wrap;
+  padding: 1rem;
+  margin-left: 1rem;
+  width: 20px;
+  height: 20px;
+  border: black 1px solid;
+  cursor: pointer;
+}
+
+.show_color {
+  padding: 0;
+}
+
+button {
+  margin: 1rem;
+  cursor: pointer;
+}
+
+.the_color {
+  flex-wrap: wrap;
+  padding: 1rem;
+  margin-left: 1rem;
+  width: 20px;
+  height: 20px;
+  border: black 1px solid;
+}
+
+.color1 {
+  background-color: #bff44d;
+}
+
+.color2 {
+  background-color: #3dd8fc;
+}
+
+.color3 {
+  background-color: #f43490;
+}
+
+.color4 {
+  background-color: #f9811e;
+}
+
+.color5 {
+  background-color: #ffff0b;
+}
+
+.color6 {
+  background-color: #870bff;
+}
+
+.color7 {
+  background-color: #ff0da3;
+}
+
+.color8 {
+  background-color: #7f7f7f;
+}
